@@ -1,0 +1,19 @@
+body, #todo, #notes {
+	margin: 0%;
+	padding: 0%;
+}
+body {
+	display: block;
+}
+
+#todo {
+	height: 30%;
+	background-color: red;
+	display: block;
+}
+
+#notes {
+	height: 70%;
+	background-color: cyan;
+	display: block;
+}
